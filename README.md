@@ -1,1 +1,1 @@
-Wheater app using javaScript
+Simple Wheater app using javaScript
